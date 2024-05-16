@@ -122,6 +122,17 @@ html {
 }
 
 #image-card {
-  margin-bottom: 10px;
   border-radius: 5px !important;
+  margin: 10px;
+}
+
+.card{
+border: none !important;
+}
+
+.footer{
+  font-family: quicksand, sans-serif;
+  background-color:rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 20px;
 }
